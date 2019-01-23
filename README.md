@@ -9,7 +9,7 @@ Flutter, as mentioned above, is a framework using the Dart Language. It's a reac
 ## Scope
 I based this app from the React tutorials located at their [tutorials page](https://reactjs.org/tutorial/tutorial.html).
 
-### Limitations
+## Limitations
 I'm currently working on these features:
 
 * Determining the winner
