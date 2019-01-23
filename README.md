@@ -1,16 +1,19 @@
-# tictactoe
+# Flutter - TicTacToe
 
-A new Flutter project.
+## What this project is
+This is a post-tutorial app using Flutter, Google's newest framework using the Dart Language.
 
-## Getting Started
+## What is Flutter?
+Flutter, as mentioned above, is a framework using the Dart Language. It's a reactive framework that caters to app development. What's neat here is that you only need to maintain *one codebase* for iOS and Android applications. You can, however, write OS-exclusive code, but that's for another repo.
 
-This project is a starting point for a Flutter application.
+## What does this project do?
+I based this app from the React tutorials located at their [tutorials page](https://reactjs.org/tutorial/tutorial.html).
 
-A few resources to get you started if this is your first Flutter project:
+###Limitations
+There are, however, limitations. I'm currently working on these features:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+* Determining the winner
+* Displaying the move history
+* And possibly travelling back to that move.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Thanks for reading!
